@@ -3,7 +3,7 @@
 body { background-image: url("tlostrony.png");
   background-color: rgb(27, 27, 27);    text-align: center;    color: #fff;}
 
-html,body {background-image:url(https://media.discordapp.net/attachments/861953171924058132/896432042881994853/bg.png);background-color: #0f1011;overflow-x: hidden;font-family: 'Signika'!important;}
+html,body {background-image:url(https://nixoonn.github.io/nixonweb/tlostrony.png);background-color: #0f1011;overflow-x: hidden;font-family: 'Signika'!important;}
 .avatarbig {width: 150px;height: auto;border-radius: 50%;box-shadow: 0 0 20px #202122;transition: .5s ease-in-out;}
 .avatarbig:hover {width: 150px;height: auto;border-radius: 50%;box-shadow: 0 0 50px #202122;transition: .6s ease-in-out;transform: scale(1.05) rotate(360deg);}
 
